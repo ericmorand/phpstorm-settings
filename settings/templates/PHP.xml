@@ -1,0 +1,20 @@
+<templateSet group="PHP">
+  <template name="&lt;?" value="&lt;?php $END ?&gt;" description="&lt;?php ... ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="&lt;?=" value="&lt;?php echo $END$; ?&gt;" description="&lt;?php echo ...; ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="prop" value="/**&#10; * @var $type$&#10; */&#10;protected $$$name$ = null;&#10;&#10;/**&#10; * @param $$data $type$&#10; * @return $this&#10; */&#10;public function set$Name$($data) {&#10;    $this-&gt;$$$name$ = $data;&#10;    &#10;    return $this;&#10;}&#10;&#10;/**&#10; * @return $type$&#10; */&#10;public function get$Name$() {&#10;    return $$this-&gt;$name$;&#10;}" description="object property and accessors" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="type" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="name" alwaysStopAt="true" />
+    <variable name="Name" expression="capitalize(name)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

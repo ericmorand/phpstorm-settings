@@ -1,0 +1,3 @@
+com.intellij
+mobi.hsz.idea.gitignore
+net.nicoulaj.idea.markdown
