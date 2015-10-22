@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="&lt;?" value="&lt;?php $END ?&gt;" description="&lt;?php ... ?&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="&lt;?" value="&lt;?php $END$ ?&gt;" description="&lt;?php ... ?&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -13,6 +13,11 @@
     <variable name="type" expression="" defaultValue="type" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="name" alwaysStopAt="true" />
     <variable name="Name" expression="capitalize(name)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pre" value="echo '&lt;pre&gt;';&#10;var_dump($END$);&#10;echo '&lt;/pre&gt;;" description="&lt;pre&gt;...&lt;/pre&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
