@@ -1,1 +1,7 @@
-com.intellij
+SvgViewer 2
+com.vladsch.idea.multimarkdown
+mobi.hsz.idea.gitignore
+net.nicoulaj.idea.markdown
+org.editorconfig.editorconfigjetbrains
+com.dmarcotte.handlebars
+org.intellij.plugins.markdown
