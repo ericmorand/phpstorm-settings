@@ -7,4 +7,21 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="iprop" value="/**&#10; * @param $$data $type$&#10; * @return $this&#10; */&#10;public function set$Name$($data);&#10; &#10;/**&#10; * @return $type$&#10; */&#10;public function get$Name$();" description="Interface property" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="&lt;?pre" value="&lt;?php echo '&lt;pre&gt;'; ?&gt;&#10;&lt;?php print_r($END$); ?&gt;&#10;&lt;?php echo '&lt;/pre&gt;'; ?&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="&lt;?pri" value="&lt;?php print $$$END$; ?&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
