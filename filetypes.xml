@@ -7,6 +7,7 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="svg" type="PLAIN_TEXT" />
       <mapping ext="vue" type="Vue.js file" />
     </extensionMap>
   </component>
