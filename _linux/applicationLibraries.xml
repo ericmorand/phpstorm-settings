@@ -19,5 +19,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="run_prettify" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_google_code-prettify_master_loader_run_prettify.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_google_code-prettify_master_loader_run_prettify.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
