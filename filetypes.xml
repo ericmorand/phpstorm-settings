@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping ext="info" type="Ini" />
+      <mapping ext="ttf" type="Native" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
