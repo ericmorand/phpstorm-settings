@@ -63,6 +63,11 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <npm-package value="/usr/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/bin/node" version="4.4.2" last-modified="1459491598000" />
   </component>
