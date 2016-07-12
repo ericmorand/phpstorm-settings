@@ -8,6 +8,7 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="js~" type="PLAIN_TEXT" />
     </extensionMap>
