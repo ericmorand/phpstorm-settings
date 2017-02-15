@@ -1,0 +1,7 @@
+<code_scheme name="Default (1)">
+  <codeStyleSettings language="Twig">
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
