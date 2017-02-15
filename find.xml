@@ -15,6 +15,7 @@
       <mask>*.mxml</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
