@@ -5,6 +5,11 @@
         <option value="HTML" />
       </set>
     </option>
-    <option name="LAST_SELECTED_LANGUAGE" value="HTML" />
+    <option name="LAST_SELECTED_LANGUAGE" value="XML" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="XML">
+      <option name="DISTINGUISH_ATTRIBUTE_VALUES" value="false" />
+    </object>
   </component>
 </application>
