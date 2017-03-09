@@ -12,6 +12,7 @@
       <mapping pattern="old" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="glsl" type="PLAIN_TEXT" />
       <mapping ext="js~" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
       <mapping ext="yeb" type="PLAIN_TEXT" />
