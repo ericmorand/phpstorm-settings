@@ -1,7 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '[drupal] - .../www/themes/custom/sapient_classy/templates'" />
     <option name="defaultScopeName" value="Directory '[drupal] - .../www/themes/custom/sapient_classy/templates'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[drupal] - .../www/themes/custom/sapient_classy/templates'" />
     <recentFileMasks>
       <mask>*.properties</mask>
