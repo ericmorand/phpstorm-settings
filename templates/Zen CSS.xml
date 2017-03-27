@@ -1,5 +1,5 @@
 <templateSet group="Zen CSS">
-  <template name="@left" value="@include left($END$);" toReformat="false" toShortenFQNames="true">
+  <template name="@left" value="@include left($END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
