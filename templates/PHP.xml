@@ -19,7 +19,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="&lt;?pri" value="&lt;?php print $$$END$; ?&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;?pri" value="&lt;?php print $$$END$; ?&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
