@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '[drupal] - .../html/src/sapient-modules/src/sapient.modules.ver.1.0.0.dev.js'" />
+    <option name="defaultScopeName" value="File '[drupal] - .../html/src/sapient-modules/src/sapient.modules.ver.1.0.0.dev.js'" />
+    <option name="SEARCH_SCOPE" value="File '[drupal] - .../html/src/sapient-modules/src/sapient.modules.ver.1.0.0.dev.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
