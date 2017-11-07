@@ -1,16 +1,16 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="1" position="22">
+    <group value="PublishGroup" is_group="true" action_type="1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup" is_group="true" action_type="1" position="23">
+    <group value="PublishGroup.Upload" is_action="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup.Upload" is_action="true" action_type="1" position="24">
+    <group seperator="true" action_type="1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
