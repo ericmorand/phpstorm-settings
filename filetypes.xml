@@ -6,6 +6,7 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
