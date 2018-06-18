@@ -26,7 +26,6 @@
         <PlaceSettings>
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
